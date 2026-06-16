@@ -1,7 +1,7 @@
 myspice
 =======
 
-Lightweight Python wrapper for running circuit simulations.
+A collection of utilities to work with SPICE simulations.
 
 .. toctree::
    :maxdepth: 2
@@ -9,4 +9,5 @@ Lightweight Python wrapper for running circuit simulations.
 
    install
    usage
+   about
    api
