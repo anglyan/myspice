@@ -2,6 +2,12 @@
 
 A collection of utilities to work with SPICE simulations
 
+## Installation
+
+```
+pip install myspice
+```
+
 ## About
 
 `myspice` was created as a tool to help
