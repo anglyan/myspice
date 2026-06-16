@@ -1,5 +1,5 @@
 Installation
-============
+------------
 
 Install from PyPI::
 
@@ -7,6 +7,8 @@ Install from PyPI::
 
 Install from source::
 
+   git clone git@github.com:anglyan/myspice.git
+   cd myspice
    pip install .
 
 For development, install in editable mode::

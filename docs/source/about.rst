@@ -1,5 +1,5 @@
 About
-=====
+-----
 
 myspice was created as a tool to help with the building of
 `ngspice <https://ngspice.sourceforge.io>`_ tutorials.
@@ -11,7 +11,7 @@ The source code is hosted on GitHub at
 `anglyan/myspice <https://github.com/anglyan/myspice>`_.
 
 What myspice is not
---------------------
+~~~~~~~~~~~~~~~~~~~
 
 There are other good Python packages that provide a more comprehensive
 integration with solvers such as ngspice or Xyce:
