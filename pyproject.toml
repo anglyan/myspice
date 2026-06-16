@@ -26,6 +26,9 @@ classifiers = [
 "Homepage" = "https://github.com/anglyan/myspice"
 "Bug Tracker" = "https://github.com/anglyan/myspice/issues"
 
+[project.scripts]
+ngextract = "myspice.ngextract:main"
+
 [tool.hatch.build.targets.wheel]
 packages = ["src/myspice"]
 
