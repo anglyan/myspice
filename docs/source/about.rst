@@ -7,6 +7,9 @@ myspice was created as a tool to help with the building of
 Since others may find it useful, it has been released with a permissive
 license. The plan is to keep adding functionality as it matures.
 
+The source code is hosted on GitHub at
+`anglyan/myspice <https://github.com/anglyan/myspice>`_.
+
 What myspice is not
 --------------------
 

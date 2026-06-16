@@ -5,8 +5,8 @@ from importlib.metadata import version as get_version
 sys.path.insert(0, os.path.abspath("../../src"))
 
 project = "myspice"
-copyright = "2026, Angel Yanguas"
-author = "Angel Yanguas"
+copyright = "2026, anglyan"
+author = "anglyan"
 release = get_version("myspice")
 version = ".".join(release.split(".")[:2])
 
