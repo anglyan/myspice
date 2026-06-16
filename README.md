@@ -25,4 +25,3 @@ There are other good Python packages that provide a more comprehensive integrati
 - [`PySpice`](https://github.com/FabriceSalvaire/PySpice) — Simulates circuits with ngspice or Xyce and builds netlists directly from Python.
 - [`PyLTSpice`](https://github.com/nunobrum/PyLTSpice) — Automates running and parsing results from LTspice.
 - [`spicelib`](https://github.com/nunobrum/spicelib) — Successor to PyLTSpice, with broader support for LTspice, ngspice, and Xyce.
-- [`ngspyce`](https://github.com/ognarb/ngspyce) — A thin Python binding to the ngspice shared library.
