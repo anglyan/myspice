@@ -3,12 +3,12 @@ myspice
 
 A collection of utilities to work with SPICE simulations.
 
-.. include:: about
+.. include:: about.rst
 
-.. include:: install
+.. include:: install.rst
 
-.. include:: usage
-   
+.. include:: usage.rst
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
